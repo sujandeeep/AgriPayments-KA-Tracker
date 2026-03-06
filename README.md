@@ -1,20 +1,95 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🌾 Agri Payments KA Tracker
 
-# Run and deploy your AI Studio app
+A modern **analytics dashboard** for tracking and visualizing agricultural payment transactions across different locations.
 
-This contains everything you need to run your app locally.
+This project was built to solve a **real-world problem** where agricultural transaction data was being shared through Excel files and manually analyzed.  
+The dashboard converts raw transaction data into **interactive insights and visual analytics**.
 
-View your app in AI Studio: https://ai.studio/apps/89cd13ec-ab30-44f7-8fd6-b4ad4ad12852
+🔗 **Live Demo**  
+https://agri-payments-ka-tracker.vercel.app/
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+# 📊 Features
 
+- 📈 **Transaction Analytics**
+  - Total transactions
+  - Total payment amount
+  - Average transaction value
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- 📍 **Location-Based Insights**
+  - Transactions categorized by location
+  - Payment distribution across locations
+
+- 📅 **Monthly Trends**
+  - Visualize transaction patterns across months
+  - Identify financial activity growth or decline
+
+- 📊 **Interactive Charts**
+  - Bar charts
+  - Line charts
+  - Pie charts
+
+- ⚡ **Fast & Responsive Dashboard**
+  - Real-time data visualization
+  - Optimized rendering using React hooks
+
+---
+
+# 🧠 Background Story
+
+A client handling agricultural payments had been sending **Excel transaction files since August** for manual classification and analysis.
+
+Instead of repeatedly processing spreadsheets manually, this project was created to:
+
+- Convert raw transaction data into **clear visual insights**
+- Provide **location-wise and monthly analytics**
+- Help quickly understand **payment trends and distribution**
+
+What started as an Excel classification task eventually became a **web-based analytics dashboard**.
+
+---
+
+# 🛠 Tech Stack
+
+**Frontend**
+
+- React.js
+- JavaScript
+- Recharts (Data Visualization)
+
+**Deployment**
+
+- Vercel
+
+**Fonts**
+
+- DM Sans
+- DM Mono
+- DM Serif Display
+
+---
+
+# 📊 Dashboard Visualizations
+
+The dashboard includes:
+
+### Transaction Metrics
+- Total transactions
+- Total transaction amount
+- Average transaction value
+- Active locations
+
+### Charts
+- **Bar Chart** → Transactions per location
+- **Line Chart** → Monthly transaction trends
+- **Pie Chart** → Transaction distribution by location
+
+---
+
+# 🚀 Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/yourusername/agri-payments-ka-tracker.git
