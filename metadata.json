@@ -1,0 +1,5 @@
+{
+  "name": "AgriPayments KA Tracker",
+  "description": "A comprehensive tracker for agricultural payment transactions (NEFT, RTGS, UTR) in Karnataka, featuring AI-powered slip parsing and Excel data visualization.",
+  "requestFramePermissions": []
+}
