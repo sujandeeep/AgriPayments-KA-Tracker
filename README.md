@@ -89,7 +89,7 @@ The dashboard includes:
 
 # 🚀 Installation
 
-Clone the repository
+to clone
 
 ```bash
 git clone https://github.com/yourusername/agri-payments-ka-tracker.git
