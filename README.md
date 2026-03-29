@@ -5,8 +5,7 @@ A modern **analytics dashboard** for tracking and visualizing agricultural payme
 This project was built to solve a **real-world problem** where agricultural transaction data was being shared through Excel files and manually analyzed.  
 The dashboard converts raw transaction data into **interactive insights and visual analytics**.
 
-🔗 **Live Demo**  
-https://agri-payments-ka-tracker.vercel.app/
+
 
 ---
 
