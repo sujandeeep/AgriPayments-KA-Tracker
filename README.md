@@ -84,11 +84,3 @@ The dashboard includes:
 - **Line Chart** → Monthly transaction trends
 - **Pie Chart** → Transaction distribution by location
 
----
-
-# 🚀 Installation
-
-to clone
-
-```bash
-git clone https://github.com/yourusername/agri-payments-ka-tracker.git
